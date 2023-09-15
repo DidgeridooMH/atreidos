@@ -1,0 +1,9 @@
+{
+  "cash_balance": 300.0,
+  "stock_balance": 0.0,
+  "initial_investment": 300.0,
+  "current_price": 410.0,
+  "pe_ratio": 25.7,
+  "max_gain_buffer": 7,
+  "model": "../models/MetaModel5.onnx"
+}

@@ -1,0 +1,6 @@
+*/__pycache__/**
+*/.vscode/**
+*.onnx
+*.csv
+trade-simulation/gain.json
+ml-prediction-model/datasets
